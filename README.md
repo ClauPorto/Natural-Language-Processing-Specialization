@@ -9,7 +9,7 @@ Specialization Certificate: https://www.coursera.org/account/accomplishments/spe
   - Certificate: https://www.coursera.org/account/accomplishments/certificate/LUA6FM8U3NK2
 
 2.Natural Language Processing with Probabilistic Models
-  - Certificate: https://www.coursera.org/account/accomplishments/certificate/LUA6FM8U3NK2
+  - Certificate: https://www.coursera.org/account/accomplishments/certificate/64HRPFNZJDDM
 
 3.Natural Language Processing with Sequence Models
   - Certificate: https://www.coursera.org/account/accomplishments/certificate/VY6J7GV78JNF
