@@ -15,7 +15,7 @@ Specialization Certificate: https://www.coursera.org/account/accomplishments/spe
   - Certificate: https://www.coursera.org/account/accomplishments/certificate/VY6J7GV78JNF
 
 4.Natural Language Processing with Attention Models
-  Certificate: https://www.coursera.org/account/accomplishments/certificate/JLZ2ATPN38ZB
+  - Certificate: https://www.coursera.org/account/accomplishments/certificate/JLZ2ATPN38ZB
 
 
 # Specialization Completion Certificate
